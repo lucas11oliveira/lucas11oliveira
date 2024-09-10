@@ -1,6 +1,7 @@
 # Lucas Oliveira
-Desenvolvedor de software | Back-end | C# | .NET
 <div align=center>
+Desenvolvedor de software | Back-end | C# | .NET
+
 Olá, sou estudante de Análise e Desenvolvimento de Sistemas, Cearense que veio tentar a vida nessa selva de pedra que é São Paulo, buscando oportunidade de ingressar na área.
 
 </div>
