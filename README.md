@@ -79,7 +79,7 @@ Algumas liguagens e ferramentas que possuo um pouco de conhecimento.
 
 </div>
 
-## Minhas Contribuições
+##
 
 <div align=center>
 
